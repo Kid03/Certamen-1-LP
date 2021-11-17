@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled.dir/Graph.cpp.o CMakeFiles/untitled.dir/Place.cpp.o CMakeFiles/untitled.dir/Trans.cpp.o CMakeFiles/untitled.dir/Arc.cpp.o CMakeFiles/untitled.dir/ErrorGraphException.cpp.o CMakeFiles/untitled.dir/lex.yy.c.o CMakeFiles/untitled.dir/bison.tab.c.o -o untitled 

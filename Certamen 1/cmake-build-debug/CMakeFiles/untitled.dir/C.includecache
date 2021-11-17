@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kid03/CLionProjects/untitled (copia)/Arc.h
+iostream
+-
+string
+-
+list
+-
+Trans.h
+/home/kid03/CLionProjects/untitled (copia)/Trans.h
+Place.h
+/home/kid03/CLionProjects/untitled (copia)/Place.h
+
+/home/kid03/CLionProjects/untitled (copia)/ErrorGraphException.h
+iostream
+-
+exception
+-
+
+/home/kid03/CLionProjects/untitled (copia)/Graph.h
+iostream
+-
+string
+-
+list
+-
+Place.h
+/home/kid03/CLionProjects/untitled (copia)/Place.h
+Trans.h
+/home/kid03/CLionProjects/untitled (copia)/Trans.h
+ErrorGraphException.h
+/home/kid03/CLionProjects/untitled (copia)/ErrorGraphException.h
+
+/home/kid03/CLionProjects/untitled (copia)/Place.h
+string
+-
+list
+-
+Arc.h
+/home/kid03/CLionProjects/untitled (copia)/Arc.h
+
+/home/kid03/CLionProjects/untitled (copia)/Trans.h
+iostream
+-
+string
+-
+list
+-
+Arc.h
+/home/kid03/CLionProjects/untitled (copia)/Arc.h
+
+/home/kid03/CLionProjects/untitled (copia)/bison.tab.c
+stdio.h
+-
+string
+-
+Graph.h
+/home/kid03/CLionProjects/untitled (copia)/Graph.h
+cstdlib
+-
+iostream
+-
+stdexcept
+-
+string
+-
+vector
+-
+libintl.h
+-
+
+/home/kid03/CLionProjects/untitled (copia)/lex.yy.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+stdio.h
+-
+string
+-
+y.tab.h
+/home/kid03/CLionProjects/untitled (copia)/y.tab.h
+unistd.h
+-
+
